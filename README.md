@@ -17,7 +17,7 @@ coming soon...
 
 ```
 @inproceedings{makabe2022wacv,
-title = {Shape-Coded ArUco: Fiducial marker for bridging 2D and 3D modalities},
+title = {Shape-coded ArUco: Fiducial marker for bridging 2D and 3D modalities},
 author = {Lilika Makabe and Hiroaki Santo and Fumio Okura and Yasuyuki Matsushita},
 year = {2022},
 date = {2022-01-04},
