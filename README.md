@@ -1,5 +1,5 @@
 # Shape-coded ArUco: Fiducial Marker for Bridging 2D and 3D Modalities
-This is the project page for our WACV2022 paper: "Shape-Coded ArUco: Fiducial Marker for Bridging 2D and 3D Modalities".
+This is the project page for our WACV2022 paper: "Shape-coded ArUco: Fiducial Marker for Bridging 2D and 3D Modalities".
 
 
 *Abstract* - We introduce a fiducial marker for the registration of two-dimensional (2D) images
