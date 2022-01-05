@@ -12,6 +12,11 @@ in the 3D domain, we develop a method for detecting the marker in an untextured
 3D point cloud. Experiments demonstrate accurate 2D-3D registration using our
 shape-coded ArUco markers in comparison to baseline methods.
 
+[[paper]](http://cvl.ist.osaka-u.ac.jp/wp-content/uploads/2021/10/makabe2022wacv.pdf)
+
+[[video]](https://www.youtube.com/watch?v=DcHXfaLgFAs&#41;)
+[![video](images/youtube_thumnail.jpg)](https://www.youtube.com/watch?v=DcHXfaLgFAs)
+
 
 coming soon...
 
